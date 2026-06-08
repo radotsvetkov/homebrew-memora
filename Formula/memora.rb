@@ -1,7 +1,6 @@
 class Memora < Formula
   desc "Catch your AI citing sources that don't say what it claims"
   homepage "https://radotsvetkov.github.io/memora"
-  version "0.1.28"
   license "Apache-2.0"
 
   on_macos do
